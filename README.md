@@ -36,13 +36,15 @@ The design aims to balance a professional presentation with a distinctive gaming
 - CSS
 - JavaScript
 
-*Update this list to reflect the actual technologies used in the project.*
+
 
 ## 📸 Preview
 
 <img width="1339" height="591" alt="Screenshot 2026-11-01 014831" src="https://github.com/user-attachments/assets/be74d27d-3749-4fd8-aafb-b8286eb89546" />
 
+<img width="1333" height="596" alt="Screenshot 2026-11-01 014755" src="https://github.com/user-attachments/assets/bfcbf835-c18b-44e8-b452-b68b53352cac" />
 
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/4c2728e9-1131-43a4-a7b1-7d84aa66c70e" />
 
 
 ## 🌐 Links
