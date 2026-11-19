@@ -7,12 +7,14 @@ export function createHome() {
 <section class="hero" id="home">
   <div class="hero-content">
 
-    <div class="hero-artwork">
-      <img
-        src="/psyche-out-banner.jpg"
-        alt="Psyche Out Entertainment original skull artwork"
-      />
-    </div>
+   
+<div class="hero-artwork">
+  <img
+    src="/psyche-out-banner.webp"
+    alt="Psyche Out Entertainment original skull artwork"
+  />
+</div>
+
 
     <p class="hero-label">
       Independent Gaming & Entertainment
